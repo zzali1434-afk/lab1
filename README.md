@@ -1,4 +1,9 @@
-# Lab1 Project
+# مشروعي الأول على GitHub
 
-This is my lab project.
-I used Git and GitHub to create a branch, edit files, and merge changes.
+تم إنشاء هذا المشروع كجزء من مختبر Git وGitHub.
+
+## حول
+
+- تم إنشاؤه بواسطة: Jood
+- الدورة: نظام إدارة إصدارات الأكواد البرمجية
+- التاريخ: 10/26 هـ
